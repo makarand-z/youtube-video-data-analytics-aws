@@ -72,3 +72,9 @@ Dataset link: https://www.kaggle.com/datasets/datasnaek/youtube-new
   <img src="https://github.com/user-attachments/assets/b1416b89-28e9-44d2-8cee-f1732ec6994e">
   <h6 align = "center" > Source: Author </h6>
 </p>
+
+#### **Step 5** - Create a dashboard to visualize and answer questions according to business requirements or perform data analytics by loading our business layer data present in AWS Athena as dataset into AWS QuickSight
+<p align="center">
+  <img width="620" alt="Image" src="https://github.com/user-attachments/assets/e2725992-371a-4548-aa69-e3a7e13329dc" />
+  <h6 align = "center" > Source: Author </h6>
+</p>
